@@ -34,18 +34,6 @@ www.youtube.com##.ytd-checkbox-survey-renderer
 ! feedback survey?
 www.youtube.com##ytd-feedback-survey-renderer
 www.youtube.com##.ytd-feedback-survey-renderer
-! follow up survey?
-www.youtube.com##.ytd-survey-follow-up-renderer
-www.youtube.com##ytd-survey-follow-up-renderer
-! multistage survey?
-www.youtube.com##.ytd-multi-stage-survey-renderer
-www.youtube.com##ytd-multi-stage-survey-renderer
-! ratings survey? 
-www.youtube.com##ytd-rating-survey-renderer
-www.youtube.com##.ytd-rating-survey-renderer
-! RED exit survey
-www.youtube.com##.ytd-red-cancel-survey-renderer
-www.youtube.com##ytd-red-cancel-survey-renderer
 ! "how are your recommendations" survey
 www.youtube.com##ytd-single-option-survey-renderer
 www.youtube.com##.ytd-single-option-survey-renderer
